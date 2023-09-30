@@ -1,0 +1,15 @@
+#cv-template .myimg{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.background{
+    background-color: gold;
+    border-radius: 2%;
+}
+
+#background{
+    background-color: goldenrod;
+}
+
